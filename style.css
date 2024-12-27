@@ -26,11 +26,13 @@
 	padding: 0 15px;
 	border-radius: 9px;
 	font-size: 24px;
+	user-select: none;
 }
 
 .keypad {
 	display: flex;
 	justify-content: space-between;
+	user-select: none;
 }
 
 .column {
